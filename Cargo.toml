@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "fibo",
+    "new_struct",
+    "shadowing",
+    "function",
+    "data_type",
+]
