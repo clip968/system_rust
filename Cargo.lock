@@ -7,6 +7,10 @@ name = "data_type"
 version = "0.1.0"
 
 [[package]]
+name = "double_linked_list"
+version = "0.1.0"
+
+[[package]]
 name = "fibo"
 version = "0.1.0"
 
@@ -15,7 +19,15 @@ name = "function"
 version = "0.1.0"
 
 [[package]]
+name = "lifetime"
+version = "0.1.0"
+
+[[package]]
 name = "new_struct"
+version = "0.1.0"
+
+[[package]]
+name = "ownership"
 version = "0.1.0"
 
 [[package]]
