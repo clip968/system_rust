@@ -3,6 +3,17 @@
 version = 4
 
 [[package]]
+name = "adder"
+version = "0.1.0"
+
+[[package]]
+name = "calc"
+version = "0.1.0"
+dependencies = [
+ "adder",
+]
+
+[[package]]
 name = "data_type"
 version = "0.1.0"
 
@@ -19,6 +30,10 @@ name = "function"
 version = "0.1.0"
 
 [[package]]
+name = "generic_Type"
+version = "0.1.0"
+
+[[package]]
 name = "lifetime"
 version = "0.1.0"
 
@@ -32,4 +47,12 @@ version = "0.1.0"
 
 [[package]]
 name = "shadowing"
+version = "0.1.0"
+
+[[package]]
+name = "unrecoverable_error"
+version = "0.1.0"
+
+[[package]]
+name = "view"
 version = "0.1.0"
