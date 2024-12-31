@@ -41,10 +41,6 @@ name = "fibo"
 version = "0.1.0"
 
 [[package]]
-name = "fildb"
-version = "0.1.0"
-
-[[package]]
 name = "filedb"
 version = "0.1.0"
 
