@@ -1,7 +1,6 @@
 [package]
-name = "unrecoverable_error"
+name = "filedb"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-encoding_rs = "0.8.35"
