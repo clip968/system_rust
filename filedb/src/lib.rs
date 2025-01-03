@@ -65,7 +65,6 @@ mod tests {
         for u in all_user.iter() {
             println!("id: {}, age: {}, name: {}", u.id, u.age, u.name);
         }
-        
     }
 }
 // fn it_works() {

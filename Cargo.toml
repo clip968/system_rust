@@ -4,5 +4,5 @@ members = [
     "new_struct",
     "shadowing",
     "function",
-    "data_type", "ownership", "lifetime", "double_linked_list", "adder", "calc", "view", "generic_Type", "unrecoverable_error", "filedb",
+    "data_type", "ownership", "lifetime", "double_linked_list", "adder", "calc", "view", "generic_Type", "unrecoverable_error", "filedb", "learn_thread", "learn_mutex",
 ]
