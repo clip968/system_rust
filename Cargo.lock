@@ -330,6 +330,16 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d75a2a4b1b190afb6f5425f10f6a8f959d2ea0b9c2b1d79553551850539e4674"
 
 [[package]]
+name = "lazy_static"
+version = "1.5.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "bbd2bcb4c963f2ddae06a2efc7e9f3591312473c50c6685e1f298068316e66fe"
+
+[[package]]
+name = "learn_library"
+version = "0.1.0"
+
+[[package]]
 name = "learn_mutex"
 version = "0.1.0"
 dependencies = [
@@ -338,6 +348,10 @@ dependencies = [
  "sqlite",
  "tokio",
 ]
+
+[[package]]
+name = "learn_system_call"
+version = "0.1.0"
 
 [[package]]
 name = "learn_thread"
@@ -414,6 +428,13 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "62948e14d923ea95ea2c7c86c71013138b66525b86bdc08d2dcc262bdb497b87"
 dependencies = [
  "memchr",
+]
+
+[[package]]
+name = "object_oriented_programming"
+version = "0.1.0"
+dependencies = [
+ "lazy_static",
 ]
 
 [[package]]
@@ -546,6 +567,10 @@ dependencies = [
 
 [[package]]
 name = "shadowing"
+version = "0.1.0"
+
+[[package]]
+name = "shell_terminal"
 version = "0.1.0"
 
 [[package]]
@@ -701,6 +726,10 @@ checksum = "e672c95779cf947c5311f83787af4fa8fffd12fb27e4993211a84bdfd9610f9c"
 dependencies = [
  "once_cell",
 ]
+
+[[package]]
+name = "tree"
+version = "0.1.0"
 
 [[package]]
 name = "try-lock"

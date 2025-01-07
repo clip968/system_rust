@@ -4,5 +4,5 @@ members = [
     "new_struct",
     "shadowing",
     "function",
-    "data_type", "ownership", "lifetime", "double_linked_list", "adder", "calc", "view", "generic_Type", "unrecoverable_error", "filedb", "learn_thread", "learn_mutex", "network", "tcpserver1", "tcpclient1", "chatserver", "chatclient",
+    "data_type", "ownership", "lifetime", "double_linked_list", "adder", "calc", "view", "generic_Type", "unrecoverable_error", "filedb", "learn_thread", "learn_mutex", "network", "tcpserver1", "tcpclient1", "chatserver", "chatclient", "learn_library", "learn_system_call", "tree", "shell_terminal", "object_oriented_programming",
 ]
