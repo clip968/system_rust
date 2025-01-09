@@ -1,0 +1,12 @@
+[package]
+name = "learn_autocxx"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cxx = "*"
+autocxx = "*"
+
+[build-dependencies]
+autocxx-build = "*"
+miette = {version = "*", features = ["fancy"]}
