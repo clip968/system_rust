@@ -1,0 +1,8 @@
+[package]
+name = "dbus-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dbus = "*"
+dbus-crossroads ="*"
